@@ -2,4 +2,4 @@ source "https://supermarket.getchef.com"
 
 metadata
 
-cookbook 'opsworks_delayed_job', git: 'https://github.com/joeyAghion/opsworks_delayed_job.git'
+cookbook 'frt-opsworks-cookbooks', github: 'freerunningtech/frt-opsworks-cookbooks', rel 'delayed_job'
